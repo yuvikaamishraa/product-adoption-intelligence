@@ -71,3 +71,29 @@ product-adoption-intelligence/
 - Add unit tests for metric calculations.
 - Add a proper database (SQLite/PostgreSQL) and run SQL queries against it.
 - Ask a peer to review the analysis and document changes made from feedback.
+## Tech Stack
+
+* **Python** — data processing and statistical analysis
+* **Streamlit** — interactive analytics dashboard
+* **Pandas** — data manipulation
+* **Statistical testing** — two-proportion z-test and 95% confidence intervals
+* **SQL** — product analytics queries
+
+## Dashboard Preview
+
+Screenshots of the dashboard will be added here.
+
+Planned views:
+
+* Executive Overview
+* Experiment Lab
+* Audience Insights
+* Data Quality
+* SQL Playbook
+
+## Limitations
+
+* The current results use synthetic demonstration data and do not represent a real product experiment.
+* Statistical significance in simulated data does not establish a real-world business impact.
+* Segment-level comparisons are exploratory.
+* A production-ready version should include experiment assignment validation, guardrail metrics, and automated tests.
