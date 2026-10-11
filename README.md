@@ -2,6 +2,14 @@
 
 A portfolio project that investigates whether a product onboarding experiment changes feature adoption and conversion.
 
+## 🚀 Live Demo
+
+[Open Product Adoption & A/B Testing Intelligence Dashboard](https://appuct-adoption-intelligence-3g45kvagev3t52kyuyqq3c.streamlit.app/)
+
+An interactive dashboard for analyzing feature adoption, onboarding experiments, conversion rates, statistical uncertainty, audience segments, and data quality using synthetic demonstration data.
+
+---
+
 ## Important data note
 The app generates **synthetic demonstration data locally** on first run. It is not Microsoft data, not real customer data, and not evidence of a real product experiment. The project is designed to demonstrate an end-to-end analytical workflow. Replace the generated CSV with a properly documented public dataset when you are ready, and update the README to describe that dataset accurately.
 
